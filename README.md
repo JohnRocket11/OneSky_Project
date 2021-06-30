@@ -12,38 +12,47 @@ Several sources were used for the data analysis of this project. First, data was
 TRAVEL PATTERNS
 Finding the differences in travel patterns is important for this project because it allows for future flight routes for VTOL and EVTOL travel to be predicted. The data from OneSky has shown there can be a difference between VTOL and private jet travel. The number of flights between 2017-2021 that were 30 minutes or less was less than 1,000 flights, while the total number of flights any duration during that time period was close to 37,000 flights. In 2020-2021 there were around 9,000 flights records, as you can see in Figure 1:
 
-![2020-2021_ALL](https://user-images.githubusercontent.com/85652072/123966327-541c0e00-d983-11eb-8606-e13bd7fd5d03.png) Figure 1
+![2020-2021_ALL](https://user-images.githubusercontent.com/85652072/123966327-541c0e00-d983-11eb-8606-e13bd7fd5d03.png) 
+Figure 1
 
 This shows that many private jet flights occurred around the USA throughout 2020-2021, but some of them had travel patterns throughout the years that are not visible through Figure 1. A further analysis was done as seen in Figure 2 and 3 to look at flight patterns and the busiest airports: 
- 
+
+![image](https://user-images.githubusercontent.com/85652072/123967191-15d31e80-d984-11eb-8326-273478d2d073.png)
 Figure 2
 
+![image](https://user-images.githubusercontent.com/85652072/123967214-1bc8ff80-d984-11eb-88cf-3a53fe34a340.png)
 Figure 3
 
 From this, it can be concluded that there is a correlation between the number times that an airport is used, and the user’s go to flight route. Figure 2 shows the top flight routes distances; they are mostly long range, which is expected for private jets unlike a VTOL and EVTOL in the future. Figure 3 show that the private jet users have preferred airports that they use that are likely around where they live.
 The data used above was then filtered to flights only 30 minutes or less and the years 2017-2019 were added for more data points. As seen in Figure 4, it is much easier to distinguish flight patterns:
- 
+
+![image](https://user-images.githubusercontent.com/85652072/123967272-27b4c180-d984-11eb-9f51-3b06002c2931.png)
 Figure 4
 
 Most of the flights in Figure 4 can be replace by future VTOL and EVTOL travel once they are setup. To have a more in-depth analysis on travel patterns to top flight routes, arrival airports, and departure airports, they are listed in Figures 5 and 6:
  
+![image](https://user-images.githubusercontent.com/85652072/123967299-2daaa280-d984-11eb-9da6-91d00901b6c9.png) 
 Figure 5
 
+![image](https://user-images.githubusercontent.com/85652072/123967330-33a08380-d984-11eb-9fec-f1fe8f6a29d2.png)
 Figure 6
 
 The big thing to take away from these charts are that the distances between the most traveled flights in Figure 5 are all close to or below 100 miles meaning that they can be replaced by VTOL and EVTOL travel. Since the data points that comprised data from 2017-2021 for flights 30 minutes or less was less than 3% of all the flight travel data in 2017-2021, it means there is data that proves there is a difference between private jet and VTOL travel. 
 
 HOTSPOTS
 The data on Heliports and EV Charging Stations can help to show where possible hotspots for the EVTOL and VTOL industries could takeoff. As seen in figure 7, the EV Chargers and Heliports were plotted on a map to see if there was a correlation between the two:
- 
+
+![image](https://user-images.githubusercontent.com/85652072/123967366-3e5b1880-d984-11eb-8fe5-4adee3668ea5.png)
 Figure 7
 
 It can be concluded that there are some possible hotspots on the east and west coasts of the map for EV charging stations and Heliports. Keep in mind the data for EV chagrining stations were filtered to only ones considered as parking lots and garages since that is were EVTOLs would be able to land. It was then looked at for the growth of EV charging stations in the past year, as seen in Figure 8:
  
+![image](https://user-images.githubusercontent.com/85652072/123967394-44e99000-d984-11eb-8c10-a68bd5fc773f.png) 
 Figure 8
 
 It looks that it has been following an exponential rise in recent years and the current number of stations in the USA is over 43,000, meaning that they are growing at a rapid pace. This hopefully means once the EVTOL industry takes off it will have the same type of growth. Meanwhile, for Heliports the growth on a state-by-state basis has shown a decline in recent years, as seen in Figure 9:
- 
+
+![image](https://user-images.githubusercontent.com/85652072/123967421-4b780780-d984-11eb-8fdc-a8ff5564f031.png)
 Figure 9
 
 The data from the years 1960-1984 were plotted using EXCEL’s line of best fit it was show in all cases to have growth growing linearly, but the actual number of Heliports now in 2021, were less than the expected amount. In most states, the number of Heliports in 1984 is more than the amount in 2021, meaning that most likely too many Heliports were built decades ago meaning that the supply and demand were not the same. This means when Vertiports are starting to be built for EVTOLs to make sure that not too many are built that they become not needed so the investments made are not lost. 
