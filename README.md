@@ -12,6 +12,7 @@ Several sources were used for the data analysis of this project. First, data was
 TRAVEL PATTERNS
 Finding the differences in travel patterns is important for this project because it allows for future flight routes for VTOL and EVTOL travel to be predicted. The data from OneSky has shown there can be a difference between VTOL and private jet travel. The number of flights between 2017-2021 that were 30 minutes or less was less than 1,000 flights, while the total number of flights any duration during that time period was close to 37,000 flights. In 2020-2021 there were around 9,000 flights records, as you can see in Figure 1:
 
+![2020-2021_ALL](https://user-images.githubusercontent.com/85652072/123966327-541c0e00-d983-11eb-8606-e13bd7fd5d03.png)
 Figure 1
 
 This shows that many private jet flights occurred around the USA throughout 2020-2021, but some of them had travel patterns throughout the years that are not visible through Figure 1. A further analysis was done as seen in Figure 2 and 3 to look at flight patterns and the busiest airports: 
